@@ -176,3 +176,5 @@ cython_debug/
 .venv_mcp_customer
 
 google_creds.json
+
+.env
